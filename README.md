@@ -24,8 +24,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```python
-# Developed By: S.Shanmathi
-# Register Number: 212222100049
+# Developed By: Ragul R
+# Register Number: 212222100040
 
 import cv2
 import matplotlib.pyplot as plt
